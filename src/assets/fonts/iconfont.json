@@ -1,0 +1,72 @@
+{
+  "id": "2356191",
+  "name": "wzys",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "6299336",
+      "name": "数据统计",
+      "font_class": "icon-",
+      "unicode": "e676",
+      "unicode_decimal": 58998
+    },
+    {
+      "icon_id": "6401231",
+      "name": "二维码",
+      "font_class": "weibiaoti--",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "10262050",
+      "name": "设 置",
+      "font_class": "shezhi",
+      "unicode": "e611",
+      "unicode_decimal": 58897
+    },
+    {
+      "icon_id": "14015799",
+      "name": "-_数据统计",
+      "font_class": "-_shujutongji",
+      "unicode": "e63c",
+      "unicode_decimal": 58940
+    },
+    {
+      "icon_id": "14261038",
+      "name": "铃铛",
+      "font_class": "lingdang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "15723121",
+      "name": "搜索",
+      "font_class": "sousuo",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "17215308",
+      "name": "电子签章",
+      "font_class": "dianziqianzhang",
+      "unicode": "e70b",
+      "unicode_decimal": 59147
+    },
+    {
+      "icon_id": "17766326",
+      "name": "折叠",
+      "font_class": "shouqi",
+      "unicode": "e87f",
+      "unicode_decimal": 59519
+    },
+    {
+      "icon_id": "18309270",
+      "name": "设 置",
+      "font_class": "shezhi1",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    }
+  ]
+}
